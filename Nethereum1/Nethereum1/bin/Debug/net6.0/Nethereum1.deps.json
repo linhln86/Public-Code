@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Nethereum1/1.0.0": {
+      "NEThereum1/1.0.0": {
         "dependencies": {
           "Nethereum.Web3": "4.12.0"
         },
         "runtime": {
-          "Nethereum1.dll": {}
+          "NEThereum1.dll": {}
         }
       },
       "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
@@ -262,7 +262,7 @@
     }
   },
   "libraries": {
-    "Nethereum1/1.0.0": {
+    "NEThereum1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

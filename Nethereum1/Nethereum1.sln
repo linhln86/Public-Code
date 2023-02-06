@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32328.378
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nethereum1", "Nethereum1\Nethereum1.csproj", "{206DABFD-90B3-40C9-917A-72C3692DC059}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEThereum1", "NEThereum1\NEThereum1.csproj", "{86D4254F-69D1-4633-8EF0-7A6DE706F78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{206DABFD-90B3-40C9-917A-72C3692DC059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{206DABFD-90B3-40C9-917A-72C3692DC059}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{206DABFD-90B3-40C9-917A-72C3692DC059}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{206DABFD-90B3-40C9-917A-72C3692DC059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D4254F-69D1-4633-8EF0-7A6DE706F78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D4254F-69D1-4633-8EF0-7A6DE706F78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D4254F-69D1-4633-8EF0-7A6DE706F78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D4254F-69D1-4633-8EF0-7A6DE706F78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8B1C6867-3CCA-4190-98AA-21DF51CAD492}
+		SolutionGuid = {529565C6-412A-4FFD-BDE2-BA50C46B4EF6}
 	EndGlobalSection
 EndGlobal
